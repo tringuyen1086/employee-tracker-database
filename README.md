@@ -4,8 +4,7 @@
 A command line application to manage a company's employee database, using Node.js, Inquirer, Console.table and MySQL2.
 
 ## Visual
-https://user-images.githubusercontent.com/71200950/153754270-4b9104ac-7b6c-4728-9f0d-b12f951ffe5a.png
-
+![employer-tracker-database-all-employees-roles](https://user-images.githubusercontent.com/71200950/153754388-735d37b0-6846-4170-a9b7-5ad257e15c8b.png)
 
 ## Video
 
