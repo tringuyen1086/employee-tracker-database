@@ -8,8 +8,11 @@ A command line application to manage a company's employee database, using Node.j
 
 ## Video
 
+https://user-images.githubusercontent.com/71200950/153753942-f4e26d7a-663d-400e-bb33-a1c8b3d75b4c.mp4
 
-Alternative Link: 
+
+
+Alternative Link: https://vimeo.com/676775344/7705212e6d
 
 ## *Built with*
 * [x] Node.js
